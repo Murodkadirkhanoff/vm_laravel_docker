@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/itvds":{"guestpath":"/var/www/itvds","hostpath":"C:/Users/AgroZamin 2/Desktop/vms/laravel-ci/itvds","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/AgroZamin 2/Desktop/vms/laravel-ci","disabled":false,"__vagrantfile":true}}}
